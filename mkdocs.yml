@@ -1,0 +1,11 @@
+site_name: NextCloudPi Documentation
+theme: readthedocs
+pages:
+    - Home and Overview: Home-and-Overview.md
+    - Configuration Reference: Configuration-Reference.md
+    - How to access NextCloudPi: How-to-access-NextCloudPi.md
+    - How to accesss from outside of your network: How-to-access-from-outside-your-network.md
+    - How to configure an external USB drive with NextCloudPi: How-to-configure-an-external-USB-drive-with-NextCloudPi.md
+    - How to configure Lets Encrypt with closed ports 80 and 443: How-to-configure-Lets-Encrypt-with-closed-ports-80-and-443.md
+
+
