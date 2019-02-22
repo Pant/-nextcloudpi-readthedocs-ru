@@ -1,7 +1,7 @@
 site_name: NextCloudPi Documentation
 theme: readthedocs
 pages:
-    - Home and Overview: Home-and-Overview.md
+    - Home and Overview: index.md
     - Configuration Reference: Configuration-Reference.md
     - How to access NextCloudPi: How-to-access-NextCloudPi.md
     - How to accesss from outside of your network: How-to-access-from-outside-your-network.md
